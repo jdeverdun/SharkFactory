@@ -1,0 +1,7 @@
+%
+%
+%
+%
+function [ varargout ] = my_seuil( varargin )
+	varargout{1}=varargin{1}>varargin{2};
+end

@@ -1,0 +1,9 @@
+ </table>
+    <h1>&nbsp;</h1>
+  <!-- end .content --></div>
+  <div class="footer">
+    <p>Cette fiche a ete genere automatiquement par Shark Factory, elle reflete l'etat des processus lances sur le cluster au moment où elle à ete genere.</p>
+  <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>

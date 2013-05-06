@@ -1,0 +1,6 @@
+lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_1.tar.gz
+lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_2.tar.gz
+lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_3.tar.gz
+lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_4.tar.gz
+lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_5.tar.gz
+lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_6.tar.gz

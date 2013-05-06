@@ -1,0 +1,42 @@
+
+
+=====================================================================
+Uploading to SE file : archive_images_1.tar.gz
+
+lcg-cr --vo vo.msfg.fr -vv  -l lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_1.tar.gz -d lptadpmsv.msfg.fr file:/home/molino/MATLAB/nuclei_segmentation/java_connect/archive2SE/archive_images_1.tar.gz
+guid:80c05f37-b19b-4bd2-8b1c-7b5e3abf3bae
+
+
+=====================================================================
+Uploading to SE file : archive_images_2.tar.gz
+
+lcg-cr --vo vo.msfg.fr -vv  -l lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_2.tar.gz -d lptadpmsv.msfg.fr file:/home/molino/MATLAB/nuclei_segmentation/java_connect/archive2SE/archive_images_2.tar.gz
+guid:f84365ac-1e0e-4a18-9774-717dcb54b318
+
+
+=====================================================================
+Uploading to SE file : archive_images_3.tar.gz
+
+lcg-cr --vo vo.msfg.fr -vv  -l lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_3.tar.gz -d lptadpmsv.msfg.fr file:/home/molino/MATLAB/nuclei_segmentation/java_connect/archive2SE/archive_images_3.tar.gz
+guid:826f933f-6888-47b9-8324-7d5da29a2bc8
+
+
+=====================================================================
+Uploading to SE file : archive_images_4.tar.gz
+
+lcg-cr --vo vo.msfg.fr -vv  -l lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_4.tar.gz -d lptadpmsv.msfg.fr file:/home/molino/MATLAB/nuclei_segmentation/java_connect/archive2SE/archive_images_4.tar.gz
+guid:4c0feedf-5197-4e8e-b3e8-a00aa31c2ada
+
+
+=====================================================================
+Uploading to SE file : archive_images_5.tar.gz
+
+lcg-cr --vo vo.msfg.fr -vv  -l lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_5.tar.gz -d lptadpmsv.msfg.fr file:/home/molino/MATLAB/nuclei_segmentation/java_connect/archive2SE/archive_images_5.tar.gz
+guid:a36c868b-ce68-40b0-a73f-64f2de00d092
+
+
+=====================================================================
+Uploading to SE file : archive_images_6.tar.gz
+
+lcg-cr --vo vo.msfg.fr -vv  -l lfn:/dpm/msfg.fr/home/vo.msfg.fr/molino/archive_images_6.tar.gz -d lptadpmsv.msfg.fr file:/home/molino/MATLAB/nuclei_segmentation/java_connect/archive2SE/archive_images_6.tar.gz
+guid:69572788-1e43-4449-8097-4dd7f1a57a37

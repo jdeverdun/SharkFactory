@@ -1,0 +1,9 @@
+%
+%
+%
+%
+function [ varargout ] = my_toto( varargin )
+    disp('je suis dans toto là');
+	varargout{1}=graythresh(varargin{1});
+end
+
